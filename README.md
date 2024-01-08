@@ -11,4 +11,8 @@ git commit -m "commit message"
 git push
 ```
 
+![Tux](Read-only-Linux.jpg)
 
+To autocomplete filenames in vim
+- Ctrl+x Ctrl+f  
+- Ctrl+n to cycle through options
